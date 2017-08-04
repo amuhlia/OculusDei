@@ -1,2 +1,2 @@
 # OculusDei
-----is a face recognition proyect-----
+----is a face recognition project-----
